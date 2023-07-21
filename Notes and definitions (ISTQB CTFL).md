@@ -216,10 +216,10 @@ set of activities to discover defects and evaluate the quality of software artif
 **static analysis**  
 tool-assisted static testing, for example detecting code defects
 
-**static testing**
+**static testing**  
 testing that does not involve the execution of the software, usually manual examinations (reviews) and static analysis
 
-**test analysis**
+**test analysis**  
 "what to test", analyzing the test basis in order to identify testable features, define and prioritize test conditions, and evaluate the risks
 
 **test automation benefits and risks**  
